@@ -1,2 +1,3 @@
 Line added from local repository.
 Line added from copy folder.
+Line is being added from the copy folder.
