@@ -1,1 +1,2 @@
 Line added from local repository.
+Line added from copy folder.
